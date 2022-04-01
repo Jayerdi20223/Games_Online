@@ -1,0 +1,17 @@
+body {
+    background: #272727;
+}
+.bg-dark {
+    background-color: #101010!important;
+}
+.navbar-dark .navbar-brand {
+    color: #ff5400;
+}
+.navbar-dark .navbar-brand:focus, .navbar-dark .navbar-brand:hover {
+    color: #ff0000;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #ff5400;
+    border-color: #ff5400;
+}
